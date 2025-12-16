@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Nexus",
+  "description": "A premium, multimodal AI chat interface powered by Google's Gemini 2.5 Flash and 3.0 Pro models. Features streaming responses, image analysis, and a modern dark-mode aesthetic.",
+  "requestFramePermissions": []
+}
