@@ -1,5 +1,5 @@
 {
-  "name": "gemini-nexus",
+  "name": "yuva-kendra-reporting-system",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -11,8 +11,10 @@
   "dependencies": {
     "react": "^19.2.3",
     "react-dom": "^19.2.3",
-    "@google/genai": "^1.33.0",
-    "lucide-react": "^0.561.0"
+    "react-router-dom": "^7.10.1",
+    "lucide-react": "^0.561.0",
+    "recharts": "^3.5.1",
+    "@supabase/supabase-js": "^2.87.1"
   },
   "devDependencies": {
     "@types/node": "^22.14.0",
